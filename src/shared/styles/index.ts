@@ -1,0 +1,1 @@
+export { stylesLoader } from './styles';
